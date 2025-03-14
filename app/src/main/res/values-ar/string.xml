@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">M1 W2 D5</string>
+
+    <string name="title">المدينة</string>
+
+    <string name="today_degree">39 °م</string>
+    <string name="today">اليوم 35/42</string>
+
+    <string name="deg_1">25 °م</string>
+    <string name="day_1">غدًا 23/31</string>
+
+    <string name="deg_2">20 °م</string>
+    <string name="day_2">الأحد 17/23</string>
+
+    <string name="deg_3">12 °م</string>
+    <string name="day_3">الإثنين 5/16</string>
+</resources>

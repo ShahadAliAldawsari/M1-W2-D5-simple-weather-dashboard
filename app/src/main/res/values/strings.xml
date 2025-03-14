@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">M1 W2 D5</string>
+
+    <string name="title">Al Madinah</string>
+
+    <string name="today_degree">39 °C</string>
+    <string name="today">Today 35/42</string>
+
+    <string name="deg_1">25 °C</string>
+    <string name="day_1">Tomorrow 23/31</string>
+
+    <string name="deg_2">20 °C</string>
+    <string name="day_2">Sunday 17/23</string>
+
+    <string name="deg_3">12 °C</string>
+    <string name="day_3">Monday 17/23</string>
 </resources>
